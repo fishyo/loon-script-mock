@@ -1,0 +1,21 @@
+{
+  "name": "loon-script-mock",
+  "version": "1.0.0",
+  "description": "LoonScriptMock - 跨平台 Loon 脚本测试与模拟环境",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test-runner.js"
+  },
+  "keywords": [
+    "loon",
+    "script",
+    "test",
+    "mock"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
